@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<!--
-**elquespera/elquespera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is **Pavel**, and I love building **web applications**. I focus on **clean code** and layouts with a **friendly UX**.
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
